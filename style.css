@@ -1,19 +1,60 @@
 h1{
     color: rgb(0, 255, 21);
+    font-size: 70px;
 }
 h2{
     color:Blue;
+    font-size: 50px;
 }
-p{
+body{
     font-size: 20px;
     font-family: 'Libre Baskerville', serif;
 }
+
+
+
 .SHORNA{
      color: indigo;
+     padding-right:60%;
+     width:50%;
 }
 .robin{
-    background-color: navy;
+    background-color:palevioletred;
     font-weight: 700;
-    
-    
+    padding: 10px 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
 }
+.DIHA{
+    width:80%;
+}
+.VIVIAN{
+    color: indigo;
+    padding-left:60%;
+    width:50%;
+    font-size: 20px;
+}
+.JIHAN{
+    background-color: darkblue;
+    padding: 10px 10px;
+    width:50%;
+    font-size: 20px;
+    color: cornsilk;
+
+
+}
+.sakib{
+    width:80%;
+    padding-right: 50%;
+}
+
+    
+   
+ 
+   
+
+
+    
+
+    
