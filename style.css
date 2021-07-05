@@ -49,7 +49,24 @@ body{
     padding-right: 50%;
 }
 
-    
+    .ria{
+        color: cyan;
+    }
+    .luck{
+        color: firebrick;
+        text-align: center;
+    }
+    .ANY{
+
+    }
+    .Developer{
+        width:40%;
+        margin-left: 5%;
+        margin-right: 5%;
+        padding-left: 20px;
+         border-left: tomato;
+    }
+  
    
  
    
